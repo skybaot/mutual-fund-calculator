@@ -1,0 +1,21 @@
+{
+  "glyphs": {
+    "₹": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 0 0 L 600 0 L 600 100 L 0 100 Z"},
+    "$": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 250 0 L 350 0 L 350 800 L 250 800 Z M 100 200 L 500 200 L 500 300 L 100 300 Z"},
+    "€": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 100 400 L 500 400 L 500 500 L 100 500 Z"},
+    "¥": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 300 0 L 300 800 L 200 800 L 200 0 Z"},
+    "%": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 100 100 L 500 700 L 400 700 L 0 100 Z"},
+    "↑": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 300 0 L 300 600 L 200 500 L 300 600 L 400 500 Z"},
+    "↓": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 300 600 L 300 0 L 200 100 L 300 0 L 400 100 Z"}
+  },
+  "familyName": "Helvetiker",
+  "ascender": 800,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {"yMin": -200, "xMin": -100, "yMax": 800, "xMax": 700},
+  "resolution": 1000,
+  "original_font_information": {"format": 0, "copyright": "", "fontFamily": "Helvetiker", "fontSubfamily": "Regular", "uniqueID": "", "fullName": "Helvetiker Regular", "version": "", "postScriptName": "Helvetiker-Regular"},
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
